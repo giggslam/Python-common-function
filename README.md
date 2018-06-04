@@ -6,5 +6,7 @@ Customized common functions for python
 
 Search in list of dictionaries
 
-## Sort a list of dictionaries (2018-06-01)
+## Sort a list of dictionaries (2018-06-04)
+
+- added parameter "reverseResult" for reverse result output, 2018-06-04
 
