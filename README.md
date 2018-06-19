@@ -10,3 +10,6 @@ Search in list of dictionaries
 
 - added parameter "reverseResult" for reverse result output, 2018-06-04
 
+## if/else in one line (2018-06-19)
+
+process if/else statement in one line
