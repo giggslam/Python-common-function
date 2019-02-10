@@ -1,0 +1,6 @@
+# textrank4zh
+textrank4zh
+jieba
+numpy
+networkx
+loguru # logger
