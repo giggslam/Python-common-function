@@ -13,3 +13,7 @@ Search in list of dictionaries
 ## if/else in one line (2018-06-19)
 
 process if/else statement in one line
+
+## TF-IDF example (2019-02-16)
+
+sklearn tf-idf example
